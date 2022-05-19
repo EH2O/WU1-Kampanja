@@ -1,7 +1,7 @@
 :root {
-    --color-light-transparent: hsla(0, 0%, 94%, 0.9);
+    --color-light-transparent: #fcf0e4;
     --color-primary: hsl(20deg 40% 53%);
-    --color-secondary: hsl(344deg 45% 13%);
+    --color-secondary: rgb(240, 136, 39);
 
     --font-headline: serif;
 }
@@ -25,7 +25,7 @@ h1, h2, h3 {
 }
 
 .hero {
-    background-image: url(../img/goh-rhy-yan-CCxWLAx0qmk-unsplash.jpg);
+    background-image: url(../img/michael-dziedzic-dbpLrMALyiM-unsplash.jpg);
     background-size: cover;
     background-position: left top;
     position: relative;
@@ -41,7 +41,7 @@ h1, h2, h3 {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: var(--color-secondary);
+    background-color: #5e3311;
     opacity: 0.4;
     z-index: 1;
 }

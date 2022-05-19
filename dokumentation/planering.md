@@ -22,7 +22,7 @@ Börja förstå koden och börja fixa så jag bara har vilket theme jag vill ha.
  
 ## Vecka 18
  
- 
+ Ska börja ändra saker.
  
 Kommer förmodligen bara fortsätta jobba.
  
